@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "だいすきフルコース",
+  "base_artist": "MEGAFON",
+  "createdAt": "2026-01-05T07:44:53.885147Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だいすきフルコース",
+      "artist": "MEGAFON",
+      "has_synced": false,
+      "path": "select/pl_01_だいすきフルコース_MEGAFON.txt"
+    }
+  ]
+}
